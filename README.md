@@ -13,7 +13,7 @@ Adjust the obstacle shade with the arrow keys.
 1. Shades run from dimmest to brightest; the participant selects the shade where the obstacle is barely visible.
 2. The same shades run from brightest to dimmest; the participant again selects where it is barely visible.
 3. The two responses are averaged to give an initial barely-visible shade.
-4. The obstacle is shown at that average shade and lowered until the participant can no longer see it (final shade).
+4. The obstacle is shown at that average shade and lowered in brightness until the participant can no longer see it (final shade).
 5. The difference between the average shade and the final shade is added back onto the average to give the calibrated obstacle shade.
 
 ## Author

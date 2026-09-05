@@ -1,4 +1,4 @@
-# Effect of Dim Lighting on Walking and Obstacle Navigation
+# Environmental Demands Outweigh Age Effects in Cortical Dynamics During Walking
 
 ## Obstacle Brightness Calibration
 

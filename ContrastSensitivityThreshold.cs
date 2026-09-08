@@ -44,7 +44,7 @@ public class ContrastSensitivityThreshold : MonoBehaviour
         writeTotStream("ParticipantID,Trial,Selected Shade,Hex Value, Line Number");
     }
 
-    // Handles user input for selecting shades and navigating through them
+    // Handles input for selecting shades and navigating through them
     void Update() //changed
     {
         if (currentTrial == ExperimentState.ExperimentEnd)
